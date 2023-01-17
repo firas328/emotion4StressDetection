@@ -9,7 +9,7 @@ eyeBrowCentroids=[]
 eyeBrowStress=[]
 
 mp_face_mesh=mp.solutions.face_mesh
-cap=cv2.VideoCapture(0)
+cap = cv2.VideoCapture("video.mp4")
 with mp_face_mesh.FaceMesh(
     max_num_faces=1,
     refine_landmarks=True,
