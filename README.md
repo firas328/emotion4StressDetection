@@ -1,7 +1,7 @@
 # StressDetection
 requirements:
---mediapipe 0.9.0.1
---python 3.9.0
+--mediapipe 0.9.0.1\
+--python 3.9.0\
 --opencv 4.7.0.68
 ##stress from eyebrow motions
 in this [article](https://www.medicalnewstoday.com/articles/321191#:~:text=Eyebrow%20twitching%20can%20be%20caused,eyebrow%20moves%20or%20spasms%20involuntarily.)stress can cause frequent eyebrow twiching 
