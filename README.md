@@ -1,5 +1,5 @@
 # StressDetection
-requirements:
+requirements:\
 --mediapipe 0.9.0.1\
 --python 3.9.0\
 --opencv 4.7.0.68
