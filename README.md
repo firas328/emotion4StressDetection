@@ -8,4 +8,4 @@ in this [article](https://www.medicalnewstoday.com/articles/321191#:~:text=Eyebr
 ## stress from eye blink
 in this [article](https://www.healthline.com/health/eye-health/eye-blinking#:~:text=When%20you%20are%20under%20stress,stress) stress can increase the frequence of eye blinking\
 ## stress from eye direction
-in this [article] (https://ieeexplore.ieee.org/document/8554715) avoiding eye contact and looking in different direction is sign for stress\
+in this [article](https://ieeexplore.ieee.org/document/8554715) avoiding eye contact and looking in different direction is sign for stress\
